@@ -22,7 +22,10 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-6C3483?style=for-the-badge&logo=nuget&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-1B6AC6?style=for-the-badge&logo=nuget&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -36,8 +39,9 @@
 var osama = new BackendDeveloper
 {
     Focus        = "REST APIs & clean architecture",
-    Stack        = new[] { "ASP.NET Core", "EF Core", "SQL Server", "Redis", "Docker" },
-    Patterns     = new[] { "Repository", "Unit of Work", "CQRS", "Dependency Injection" },
+    Stack        = new[] { "ASP.NET Core", "EF Core", "SQL Server", "PostgreSQL",
+                           "Redis", "RabbitMQ", "Docker" },
+    Patterns     = new[] { "Repository", "Unit of Work", "CQRS + MediatR", "Dependency Injection" },
     CurrentlyOn  = "Scaling Time Capsule 🚀"
 };
 ```
