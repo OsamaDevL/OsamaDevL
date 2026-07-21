@@ -42,19 +42,9 @@ var osama = new BackendDeveloper
     Stack        = new[] { "ASP.NET Core", "EF Core", "SQL Server", "PostgreSQL",
                            "Redis", "RabbitMQ", "Docker" },
     Patterns     = new[] { "Repository", "Unit of Work", "CQRS + MediatR", "Dependency Injection" },
-    CurrentlyOn  = "Scaling Time Capsule 🚀"
+    CurrentlyOn  = "SFMS — Steel Fabrication Management System 🏗️"
 };
 ```
-
-### 📌 Featured Project
-
-<div align="center">
-
-[![Time Capsule Backend](https://github-readme-stats.vercel.app/api/pin/?username=OsamaDevL&repo=time-capsule-backend&theme=tokyonight&hide_border=true)](https://github.com/OsamaDevL/time-capsule-backend)
-
-*Graduation project — back-end APIs for storing memories and unlocking them in the future.*
-
-</div>
 
 ### 📊 GitHub Stats
 
@@ -79,7 +69,7 @@ var osama = new BackendDeveloper
 
 <div align="center">
 
-📫 Reach me: **osama.ragab.huissen@gmail.com**
+📫 Reach me: **osama.ragab.dev@gmail.com**
 
 <img src="https://komarev.com/ghpvc/?username=OsamaDevL&color=512BD4&style=for-the-badge" alt="profile views" />
 
