@@ -46,13 +46,6 @@ var osama = new BackendDeveloper
 };
 ```
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/OsamaDevL/OsamaDevL/output/github-metrics.svg" alt="GitHub metrics" />
-
-</div>
 
 ### 🐍 Contribution Snake
 
